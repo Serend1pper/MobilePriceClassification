@@ -1,5 +1,3 @@
-# Intro to AI Homework #1
-
 This repository contains datasets used for educational purposes.
 Original Sources:
 1. Mobile Price: https://www.kaggle.com/iabhishekofficial/mobile-price-classification
